@@ -979,8 +979,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/merlinx/proprietary/vendor/lib/s5k4h7yx_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k4h7yx_mipi_raw_tuning.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib/s5kgm1sp_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5kgm1sp_mipi_raw_tuning.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib/s5kgm1sp_sunny_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5kgm1sp_sunny_mipi_raw_tuning.so \
-    vendor/xiaomi/merlinx/proprietary/vendor/lib/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing.so \
-    vendor/xiaomi/merlinx/proprietary/vendor/lib/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing_mtk.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib/vendor.mediatek.hardware.apmonitor@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.apmonitor@2.0.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib/vendor.mediatek.hardware.audio@6.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.audio@6.1.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so \
@@ -1461,8 +1459,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/s5kgm1sp_sunny_mipi_raw_india_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5kgm1sp_sunny_mipi_raw_india_IdxMgr.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/s5kgm1sp_sunny_mipi_raw_india_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5kgm1sp_sunny_mipi_raw_india_tuning.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/s5kgm1sp_sunny_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5kgm1sp_sunny_mipi_raw_tuning.so \
-    vendor/xiaomi/merlinx/proprietary/vendor/lib64/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiopreprocessing.so \
-    vendor/xiaomi/merlinx/proprietary/vendor/lib64/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiopreprocessing_mtk.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/vendor.mediatek.hardware.apmonitor@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.apmonitor@2.0.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/vendor.mediatek.hardware.atci@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.atci@1.0.so \
     vendor/xiaomi/merlinx/proprietary/vendor/lib64/vendor.mediatek.hardware.audio@6.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.audio@6.1.so \
