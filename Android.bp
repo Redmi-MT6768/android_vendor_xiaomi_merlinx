@@ -5,6 +5,23 @@
 soong_namespace {
 }
 
+cc_prebuilt_library_shared {
+	name: "libpowerhal",
+	owner: "xiaomi",
+	strip: {
+		none: true,
+	},
+	target: {
+		android_arm64: {
+			srcs: ["proprietary/vendor/lib64/libpowerhal.so"],
+		},
+	},
+	compile_multilib: "64",
+	check_elf_files: false,
+	prefer: true,
+	soc_specific: true,
+}
+
 prebuilt_etc_xml {
 	name: "manifest_android.hardware.gpu@1.0-service",
 	owner: "xiaomi",
